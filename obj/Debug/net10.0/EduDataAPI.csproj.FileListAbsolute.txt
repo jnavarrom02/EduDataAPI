@@ -160,3 +160,4 @@ C:\Proyectos\PrograVI\EduDataAPI\obj\Debug\net10.0\refint\EduDataAPI.dll
 C:\Proyectos\PrograVI\EduDataAPI\obj\Debug\net10.0\EduDataAPI.pdb
 C:\Proyectos\PrograVI\EduDataAPI\obj\Debug\net10.0\EduDataAPI.genruntimeconfig.cache
 C:\Proyectos\PrograVI\EduDataAPI\obj\Debug\net10.0\ref\EduDataAPI.dll
+C:\Proyectos\PrograVI\EduDataAPI\obj\Debug\net10.0\EduDataAPI.sourcelink.json
