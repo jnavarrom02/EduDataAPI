@@ -153,7 +153,6 @@ C:\Proyectos\PrograVI\EduDataAPI\obj\Debug\net10.0\staticwebassets.build.json.ca
 C:\Proyectos\PrograVI\EduDataAPI\obj\Debug\net10.0\staticwebassets.development.json
 C:\Proyectos\PrograVI\EduDataAPI\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 C:\Proyectos\PrograVI\EduDataAPI\obj\Debug\net10.0\swae.build.ex.cache
-C:\Proyectos\PrograVI\EduDataAPI\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 C:\Proyectos\PrograVI\EduDataAPI\obj\Debug\net10.0\EduDataAPI.csproj.Up2Date
 C:\Proyectos\PrograVI\EduDataAPI\obj\Debug\net10.0\EduDataAPI.dll
 C:\Proyectos\PrograVI\EduDataAPI\obj\Debug\net10.0\refint\EduDataAPI.dll
@@ -161,3 +160,4 @@ C:\Proyectos\PrograVI\EduDataAPI\obj\Debug\net10.0\EduDataAPI.pdb
 C:\Proyectos\PrograVI\EduDataAPI\obj\Debug\net10.0\EduDataAPI.genruntimeconfig.cache
 C:\Proyectos\PrograVI\EduDataAPI\obj\Debug\net10.0\ref\EduDataAPI.dll
 C:\Proyectos\PrograVI\EduDataAPI\obj\Debug\net10.0\EduDataAPI.sourcelink.json
+C:\Proyectos\PrograVI\EduDataAPI\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt

@@ -45,13 +45,13 @@ namespace EduDataAPI.Controllers
             return NoContent();
         }
 
-        //[HttpDelete("{id}")]
-        //public async Task<ActionResult> EliminarUsuario(int id)
-        //{
-        //    await _repository.EliminarUsuario(id);
+        [HttpDelete("{id}")]
+        public async Task<ActionResult> EliminarUsuario(int id)
+        {
+            await _repository.EliminarUsuario(id);
 
-        //    return NoContent();
-        //}
+            return NoContent();
+        }
 
         [HttpGet("{id}")]
         public async Task<ActionResult<Usuario>> BuscarUsuarioPorId(int id)
