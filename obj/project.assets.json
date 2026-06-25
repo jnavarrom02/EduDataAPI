@@ -3570,6 +3570,7 @@
   "projectFileDependencyGroups": {
     "net10.0": [
       "Microsoft.AspNetCore.OpenApi >= 10.0.4",
+      "Microsoft.Data.SqlClient >= 6.1.1",
       "Microsoft.EntityFrameworkCore.SqlServer >= 10.0.9",
       "Microsoft.EntityFrameworkCore.Tools >= 10.0.9",
       "Swashbuckle.AspNetCore >= 10.2.1"
@@ -3628,6 +3629,10 @@
           "Microsoft.AspNetCore.OpenApi": {
             "target": "Package",
             "version": "[10.0.4, )"
+          },
+          "Microsoft.Data.SqlClient": {
+            "target": "Package",
+            "version": "[6.1.1, )"
           },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
