@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Proyectos\\PrograVI\\EduDataAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BFDDE48D-FFCB-413C-2821-5DAE28B58719}|EduDataAPI.csproj|c:\\proyectos\\progravi\\edudataapi\\db\\edudata.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{BFDDE48D-FFCB-413C-2821-5DAE28B58719}|EduDataAPI.csproj|solutionrelative:db\\edudata.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BFDDE48D-FFCB-413C-2821-5DAE28B58719}|EduDataAPI.csproj|c:\\proyectos\\progravi\\edudataapi\\controladores\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFDDE48D-FFCB-413C-2821-5DAE28B58719}|EduDataAPI.csproj|solutionrelative:controladores\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,6 +33,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{BFDDE48D-FFCB-413C-2821-5DAE28B58719}|EduDataAPI.csproj|c:\\proyectos\\progravi\\edudataapi\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFDDE48D-FFCB-413C-2821-5DAE28B58719}|EduDataAPI.csproj|solutionrelative:modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDDE48D-FFCB-413C-2821-5DAE28B58719}|EduDataAPI.csproj|c:\\proyectos\\progravi\\edudataapi\\db\\edudata.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{BFDDE48D-FFCB-413C-2821-5DAE28B58719}|EduDataAPI.csproj|solutionrelative:db\\edudata.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +46,23 @@
       "DocumentGroups": [
         {
           "DockedHeight": 269,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "EduData.sql ",
+              "DocumentMoniker": "C:\\Proyectos\\PrograVI\\EduDataAPI\\DB\\EduData.sql",
+              "RelativeDocumentMoniker": "DB\\EduData.sql",
+              "ToolTip": "C:\\Proyectos\\PrograVI\\EduDataAPI\\DB\\EduData.sql",
+              "RelativeToolTip": "DB\\EduData.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-06-26T01:11:42.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Proyectos\\PrograVI\\EduDataAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -54,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Proyectos\\PrograVI\\EduDataAPI\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -66,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Proyectos\\PrograVI\\EduDataAPI\\Controladores\\UsuarioController.cs",
               "RelativeDocumentMoniker": "Controladores\\UsuarioController.cs",
@@ -79,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UsuarioRepository.cs",
               "DocumentMoniker": "C:\\Proyectos\\PrograVI\\EduDataAPI\\Repositorios\\UsuarioRepository.cs",
               "RelativeDocumentMoniker": "Repositorios\\UsuarioRepository.cs",
@@ -91,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Proyectos\\PrograVI\\EduDataAPI\\Modelos\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Modelos\\AppDbContext.cs",
@@ -103,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "EduDataAPI.http",
               "DocumentMoniker": "C:\\Proyectos\\PrograVI\\EduDataAPI\\EduDataAPI.http",
               "RelativeDocumentMoniker": "EduDataAPI.http",
@@ -115,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Proyectos\\PrograVI\\EduDataAPI\\Modelos\\Usuario.cs",
               "RelativeDocumentMoniker": "Modelos\\Usuario.cs",
